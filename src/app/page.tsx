@@ -201,7 +201,7 @@ export default function Home() {
                 authenticity, and measurable growth guide every sprint.
               </p>
               <p className="text-lg font-bold uppercase tracking-wide text-[#FFE600] text-shadow-single">
-                Currently based in Lisbon, traveling worldwide.
+                Currently based in Spain.
               </p>
             </div>
 
